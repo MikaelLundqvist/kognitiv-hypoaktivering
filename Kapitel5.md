@@ -176,3 +176,5 @@ Genom att prioritera hållbarhet, extern reglering och realistisk belastning kan
 9. Becker SP et al. _Sluggish cognitive tempo and occupational functioning_. J Atten Disord. 2018;22(7):619–630.
 10. Kreutzer JS et al. _Caregivers’ perspectives on cognitive and functional impairment_. Brain Inj. 2009;23:447–459.
 11. WHO. _International Classification of Functioning, Disability and Health (ICF)_. Geneva: WHO; 2001.
+
+\newpage

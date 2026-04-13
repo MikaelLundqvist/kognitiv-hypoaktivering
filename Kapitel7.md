@@ -118,3 +118,5 @@ Detta häfte har inte haft som mål att sätta en etikett, utan att bidra till *
 7. Sonuga‑Barke EJS, Castellanos FX. _Spontaneous attentional fluctuations in impaired states and pathological conditions_. Neurosci Biobehav Rev. 2007;31:977–986.
 8. Heinemann AW et al. _Environmental factors and participation_. J Head Trauma Rehabil. 2006;21:393–404.
 9. Garner AA et al. _Sluggish cognitive tempo and attention‑deficit/hyperactivity disorder: Distinct or related constructs?_ Psychol Bull. 2017;143(7):647–678.
+
+\newpage

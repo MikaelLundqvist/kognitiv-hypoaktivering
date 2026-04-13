@@ -131,3 +131,5 @@ I nästa kapitel behandlas hur dessa kognitiva och emotionella konsekvenser tar 
 6. Garner AA et al. _Sluggish cognitive tempo and attention‑deficit/hyperactivity disorder: Distinct or related constructs?_ Psychol Bull. 2017;143(7):647–678.
 7. Kuppens P, Tuerlinckx F, Russell JA. _The relation between cognitive performance and stress_. Psychol Rev. 2010;117:954–970.
 8. Becker SP et al. _Functional impairment in sluggish cognitive tempo_. Clin Psychol Rev. 2020;78:101843.
+
+\newpage

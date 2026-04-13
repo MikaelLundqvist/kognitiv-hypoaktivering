@@ -118,3 +118,5 @@ I följande kapitel fördjupas hur denna funktionsprofil tar sig uttryck i varda
 6. Garner AA et al. _Sluggish cognitive tempo and attention‑deficit/hyperactivity disorder: Distinct or related constructs?_ Psychol Bull. 2017;143(7):647–678.
 7. Sonuga‑Barke EJS, Castellanos FX. _Spontaneous attentional fluctuations in impaired states and pathological conditions_. Neurosci Biobehav Rev. 2007;31:977–986.
 8. World Health Organization. _International Classification of Functioning, Disability and Health (ICF)_. Geneva: WHO; 2001.
+
+\newpage

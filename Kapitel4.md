@@ -51,7 +51,7 @@ För individen kan detta upplevas som ett hot mot autonomi och självbild, särs
 
 ***
 
-## **4.3 Konsekvenser i arbeid och studier**
+## **4.3 Konsekvenser i arbete och studier**
 
 ### **4.3.1 Kravnivåer i moderna arbetsmiljöer**
 
@@ -149,3 +149,5 @@ Nästa kapitel behandlar vilka **stöd, anpassningar och kompensatoriska strateg
 7. Garner AA et al. _Sluggish cognitive tempo and attention‑deficit/hyperactivity disorder: Distinct or related constructs?_ Psychol Bull. 2017;143(7):647–678.
 8. Becker SP et al. _Sluggish cognitive tempo and occupational functioning_. J Atten Disord. 2018;22(7):619–630.
 9. WHO. _International Classification of Functioning, Disability and Health (ICF)_. Geneva: WHO; 2001.
+
+\newpage

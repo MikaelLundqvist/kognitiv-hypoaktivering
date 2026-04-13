@@ -2,7 +2,7 @@
 
 ## **1.1 Syfte**
 
-Detta häfte behandlar ett kognitivt funktionsmönster som i forskningslitteraturen ofta benämns **Sluggish Cognitive Tempo (SCT)**, men som i praktiken kan beskrivas som **kognitiv hypoaktivering**. Mönstret kännetecknas av låg mental aktivering, långsam informationsbearbetning, nedsatt initiativförmåga och begränsad kognitiv uthållighet, särskilt i sammanhang som kräver samtidighet, tempo och självstyrning \[1,2].
+Detta häfte behandlar ett kognitivt funktionsmönster som i forskningslitteraturen ofta benämns **Sluggish Cognitive Tempo (SCT)**, men som i praktiken kan beskrivas som **kognitiv hypoaktivering**. Funktionsmönstret kännetecknas av låg mental aktivering, långsam informationsbearbetning, nedsatt initiativförmåga och begränsad kognitiv uthållighet, särskilt i sammanhang som kräver samtidighet, tempo och självstyrning \[1,2].
 
 För många individer leder dessa svårigheter till betydande begränsningar i vardag, arbete, studier och sociala sammanhang, trots att de ofta inte uppvisar några tydliga yttre tecken på funktionsnedsättning \[3]. Funktionella svårigheter vid SCT är i hög grad **osynliga**, vilket bidrar till att de ofta misstolkas som bristande motivation, ointresse eller låg arbetsmoral \[2,4].
 
@@ -73,3 +73,5 @@ I stället ligger fokus på att tillhandahålla **begripliga förklaringsmodelle
 5. World Health Organization. _International Classification of Functioning, Disability and Health (ICF)_. Geneva: WHO; 2001.
 6. Barkley RA. _Attention‑Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment_. 4th ed. New York: Guilford Press; 2015.
 7. WHO. _Towards a Common Language for Functioning, Disability and Health (ICF conceptual framework)_. Geneva: WHO; 2002.
+
+\newpage

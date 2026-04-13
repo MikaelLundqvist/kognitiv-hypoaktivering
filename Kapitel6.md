@@ -20,7 +20,7 @@ Detta kapitel belyser vanliga utmaningar i mötet med vård, arbete och myndighe
 
 ### **6.2.1 När diagnos saknas men funktion är nedsatt**
 
-Eftersom SCT inte är en etablerad diagnos riskerar vårdkontakter att fastna i frågan _”vad har du?”_ snarare än _”hur fungerar du?”_ \[1,4]. Detta kan leda till att personer med betydande funktionsnedsättning bedöms som ”för friska” för insatser, trots tydliga vardagsproblem.
+Eftersom SCT inte är en etablerad diagnos riskerar vårdkontakter att fokusera på vilken diagnos individen har, snarare än på hur personen fungerar i vardagen \[1,4]. Detta kan leda till att personer med betydande funktionsnedsättningar bedöms som ”för friska” för insatser, trots tydliga och varaktiga svårigheter i dagligt liv.
 
 Ett funktionsbaserat förhållningssätt – där fokus ligger på:
 
@@ -174,3 +174,5 @@ I nästa kapitel knyts innehållet samman i en **övergripande diskussion**, med
 8. Sonuga‑Barke EJS, Castellanos FX. _Spontaneous attentional fluctuations in impaired states and pathological conditions_. Neurosci Biobehav Rev. 2007;31:977–986.
 9. Heinemann AW et al. _Environmental factors and participation_. J Head Trauma Rehabil. 2006;21:393–404.
 10. Kreutzer JS et al. _Caregivers’ perspectives related to cognitive and functional impairment_. Brain Inj. 2009;23:447–459.
+
+\newpage
