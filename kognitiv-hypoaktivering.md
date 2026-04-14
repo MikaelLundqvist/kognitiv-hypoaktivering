@@ -4,7 +4,7 @@ subtitle: "Om funktion, vardagsliv, arbete och vård"
 author:
   - "Mikael Lundqvist"
   - "Redaktör och sammanställare"
-date: "April 2026, version 0.31"
+date: "April 2026, version 0.32"
 lang: "sv"
 keywords:
   [
@@ -40,5 +40,7 @@ keywords:
 ## Kapitel 6 – Att möta vård, arbete och myndigheter
 
 ## Kapitel 7 – Sammanfattande diskussion och framtida utvecklingsområden
+
+## Kapitel 8 – Kognitiv hypoaktivering och hjärntrötthet: likheter, skillnader och funktionella implikationer
 
 \newpage
