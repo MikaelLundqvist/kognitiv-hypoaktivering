@@ -4,7 +4,7 @@ subtitle: "Om funktion, vardagsliv, arbete och vård"
 author:
   - "Mikael Lundqvist"
   - "Redaktör och sammanställare"
-date: "April 2026, version 0.32"
+date: "April 2026, version 0.33"
 lang: "sv"
 keywords:
   [
@@ -42,5 +42,9 @@ keywords:
 ## Kapitel 7 – Sammanfattande diskussion och framtida utvecklingsområden
 
 ## Kapitel 8 – Kognitiv hypoaktivering och hjärntrötthet: likheter, skillnader och funktionella implikationer
+
+## Kapitel 9 – Kognitiv hypoaktivering i relation till INCOG 2.0
+
+## Kapitel 10 – När långsam processing speed ger upphov till minnessvårigheter
 
 \newpage
