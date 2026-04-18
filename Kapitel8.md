@@ -118,3 +118,5 @@ Denna funktionsuppdelning saknas ofta i dagens vårdflöden, men är avgörande 
 7. Barkley RA. _Sluggish cognitive tempo (concentration deficit disorder?): Current status, future directions, and why it matters_. J Abnorm Child Psychol. 2014;42:1–11.
 8. Rönnbäck L, Johansson B. _Long-lasting mental fatigue after traumatic brain injury_. Acta Neurol Scand. 2004;109:363–368.
 9. Behrens M et al. _Fatigue and human performance: An updated framework_. Sports Med. 2022;53:7–31.
+
+\newpage

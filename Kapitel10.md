@@ -80,3 +80,5 @@ Genom att tydligt skilja mellan primär minnesnedsättning och tempobaserade min
 6. Ponsford J, Sloan S, Snow P. _Traumatic Brain Injury: Rehabilitation for Everyday Adaptive Living_. Psychology Press; 2013.
 7. Arnsten AF. _Stress signalling pathways that impair prefrontal cortex structure and function_. Nature Reviews Neuroscience. 2009;10:410–422.
 8. Sonuga‑Barke EJS, Castellanos FX. _Spontaneous attentional fluctuations in impaired states and pathological conditions_. Neuroscience & Biobehavioral Reviews. 2007;31:977–986.
+
+\newpage

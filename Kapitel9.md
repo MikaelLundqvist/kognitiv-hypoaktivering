@@ -118,3 +118,5 @@ I nästa kapitel fördjupas hur långsam processing speed i sig kan ge upphov ti
 7. Sonuga‑Barke EJS, Castellanos FX. _Spontaneous attentional fluctuations in impaired states_. Neurosci Biobehav Rev. 2007;31:977–986.
 8. Cools R, D’Esposito M. _Inverted‑U‑shaped dopamine actions on working memory_. Biol Psychiatry. 2011;69:113–125.
 9. Behrens M et al. _Fatigue and human performance: an updated framework_. Sports Med. 2022;53:7–31.
+
+\newpage
