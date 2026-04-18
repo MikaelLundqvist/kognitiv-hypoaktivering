@@ -4,7 +4,7 @@ subtitle: "Om funktion, vardagsliv, arbete och vård"
 author:
   - "Mikael Lundqvist"
   - "Redaktör och sammanställare"
-date: "April 2026, version 0.33"
+date: "April 2026, version 0.34"
 lang: "sv"
 keywords:
   [
@@ -46,5 +46,11 @@ keywords:
 ## Kapitel 9 – Kognitiv hypoaktivering i relation till INCOG 2.0
 
 ## Kapitel 10 – När långsam processing speed ger upphov till minnessvårigheter
+
+## Kapitel 11 – Neuropsykiatriska funktionsnedsättningar som premorbid faktor vid traumatisk hjärnskada
+
+## Kapitel 12 – Differentialdiagnostiska överväganden vid NPF‑liknande symtom
+
+## Appendix A – Metodologiska implikationer och framtida forskningsvägar
 
 \newpage
